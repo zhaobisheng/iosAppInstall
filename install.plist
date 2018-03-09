@@ -14,7 +14,7 @@
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>org.reactjs.native.example.MyProject</string>
+                <string>org.mammoncoin.wallet</string>
                 <key>bundle-version</key>
                 <string>1.00</string>
                 <key>kind</key>
